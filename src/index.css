@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Roboto Mono", serif; /*using Font */
+  --breakpoint-3xl: 1920px;
+  /* Using Colors */
+  --color-primary: #32012f; /* Purple */
+  --color-secondary: #524c42; /* Gray */
+  --color-light: #e2dfd0; /* Light Gray */
+  --color-important: #f97300; /* Orange */
+  --color-hovwr: #727d73; /* Hover Gray */
+}
